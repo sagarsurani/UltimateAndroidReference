@@ -301,6 +301,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Conversations](https://github.com/siacs/Conversations) - A federated Instant Messaging app for Android (XMPP/Jabber)
 * [Kickstarter](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere
 * [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Free as in Freedom torrent client for Android
+* [MindorksOpenSource](https://github.com/MindorksOpenSource/android-mvp-interactor-architecture) - Extension of the android-mvp-architecture for very large projects
 * [MusicDNA](https://github.com/harjot-oberai/MusicDNA) - A Music Player for Android that renders beautiful DNA(Visualization) of the currently playing music
 * [Muzei Wallpaper](https://github.com/romannurik/muzei) - Muzei Live Wallpaper for Android
 * [OmniNotes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android
